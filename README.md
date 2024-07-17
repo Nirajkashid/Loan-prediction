@@ -12,6 +12,6 @@ We at our end, have the actual loan status for the test dataset, against which y
 Test file is further divided into Public (25%) and Private (75%)
 Your initial responses will be checked and scored on the Public data.
 
-#Guidelines for Final Submission
+# Guidelines for Final Submission
 1) Solution file containing the predicted sales value in the test dataset (format is given in sample submission csv).
 2) Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission.
